@@ -3,6 +3,7 @@
 ## Image
 
 `docker pull rodrigogons/codeeducation:latest`
+
 [docker image page](https://hub.docker.com/r/rodrigogons/codeeducation)
 
 ## Desafio
