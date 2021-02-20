@@ -2,9 +2,9 @@
 
 ## Image
 
-`docker pull rodrigogons/codeeducation:latest`
+`docker pull rodrigogsilva/codeeducation:latest`
 
-[docker image page](https://hub.docker.com/r/rodrigogons/codeeducation)
+[docker image page](https://hub.docker.com/r/rodrigogsilva/codeeducation)
 
 ## Desafio
 
